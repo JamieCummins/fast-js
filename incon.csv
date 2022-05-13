@@ -1,0 +1,17 @@
+word;image;required_response;block
+HAPPY;;left;inconsistent
+GOODNESS;;left;inconsistent
+KIND;;left;inconsistent
+CARING;;left;inconsistent
+WAR;;right;inconsistent
+HATE;;right;inconsistent
+DEATH;;right;inconsistent
+PAIN;;right;inconsistent
+;black1.jpg;left;inconsistent
+;black2.jpg;left;inconsistent
+;black3.jpg;left;inconsistent
+;black4.jpg;left;inconsistent
+;white1.jpg;right;inconsistent
+;white2.jpg;right;inconsistent
+;white3.jpg;right;inconsistent
+;white4.jpg;right;inconsistent

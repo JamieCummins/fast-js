@@ -1,0 +1,17 @@
+word;image;required_response;block
+HAPPY;;left;consistent
+GOODNESS;;left;consistent
+KIND;;left;consistent
+CARING;;left;consistent
+WAR;;right;consistent
+HATE;;right;consistent
+DEATH;;right;consistent
+PAIN;;right;consistent
+;black1.jpg;right;consistent
+;black2.jpg;right;consistent
+;black3.jpg;right;consistent
+;black4.jpg;right;consistent
+;white1.jpg;left;consistent
+;white2.jpg;left;consistent
+;white3.jpg;left;consistent
+;white4.jpg;left;consistent
